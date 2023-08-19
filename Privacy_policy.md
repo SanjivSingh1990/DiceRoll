@@ -1,4 +1,5 @@
 Dice Roll: Privacy policy
+
 Welcome to the Dice Roll app for Android!
 
 This is an open source Android app developed by Sanjiv Singh. the app is also available on Google Play.
